@@ -949,6 +949,15 @@
 // @match		https://pixho.st/show/*
 // @match		https://img4k.net/image/*
 // @match		https://imgpv.com/*/*.html
+// @match		https://cn-av.vip/upload/*
+// @match		https://anime-jav.vip/upload/*
+// @match		https://pig69.vip/upload/*
+// @match		https://javtele.org/upload/*
+// @match		https://russian18.vip/upload/*
+// @match		https://bbcuck.com/upload/*
+// @match		https://thaiav.org/upload/*
+// @match		https://old-young.vip/upload/*
+// @match		https://homexxx.vip/upload/*
 // ==/UserScript==
 
 "use strict";
