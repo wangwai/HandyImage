@@ -958,6 +958,8 @@
 // @match		https://thaiav.org/upload/*
 // @match		https://old-young.vip/upload/*
 // @match		https://homexxx.vip/upload/*
+// @match		https://fc2ppv.vip/upload/*
+// @match		https://chinese-pics.vip/upload/*
 // ==/UserScript==
 
 "use strict";
