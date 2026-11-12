@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name		Handy Image
-// @version		2026.11.08
+// @version		2026.11.12
 // @author		Owyn
 // @contributor	ubless607, bitst0rm
 // @namespace	handyimage
 // @description	Shows just fullsize Image with hotkeys & without pop-ups on many image-hosting sites
-// @updateURL	https://github.com/Owyn/HandyImage/raw/master/HandyImage.user.js
-// @downloadURL	https://github.com/Owyn/HandyImage/raw/master/HandyImage.user.js
+// @updateURL	https://github.com/wangwai/HandyImage/raw/master/HandyImage.user.js
+// @downloadURL	https://github.com/wangwai/HandyImage/raw/master/HandyImage.user.js
 // @homepage	https://github.com/Owyn/HandyImage
 // @supportURL	https://github.com/Owyn/HandyImage/issues
 // @icon		https://i.ibb.co/Xk4vsrTT/Handy.png
