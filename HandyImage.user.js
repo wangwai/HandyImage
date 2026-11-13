@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		Handy Image
-// @version		2026.11.12
+// @version		2026.11.13
 // @author		Owyn
 // @contributor	ubless607, bitst0rm
 // @namespace	handyimage
@@ -960,6 +960,7 @@
 // @match		https://homexxx.vip/upload/*
 // @match		https://fc2ppv.vip/upload/*
 // @match		https://chinese-pics.vip/upload/*
+// @match		https://girlxxx.vip/upload/*
 // ==/UserScript==
 
 "use strict";
