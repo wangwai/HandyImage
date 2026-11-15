@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		Handy Image
-// @version		2026.11.13
+// @version		2026.11.15
 // @author		Owyn
 // @contributor	ubless607, bitst0rm
 // @namespace	handyimage
