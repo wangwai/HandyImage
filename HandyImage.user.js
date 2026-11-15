@@ -961,6 +961,7 @@
 // @match		https://fc2ppv.vip/upload/*
 // @match		https://chinese-pics.vip/upload/*
 // @match		https://girlxxx.vip/upload/*
+// @match		https://2minx.com/upload/*
 // ==/UserScript==
 
 "use strict";
