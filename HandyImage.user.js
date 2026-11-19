@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		Handy Image
-// @version		2026.11.16
+// @version		2026.11.19
 // @author		Owyn
 // @contributor	ubless607, bitst0rm
 // @namespace	handyimage
@@ -964,6 +964,7 @@
 // @match		https://2minx.com/upload/*
 // @match		https://cosplaytele.vip/upload/*
 // @match		https://hentai-manga.org/upload/*
+// @match		https://cnxxx.org/upload/*
 // ==/UserScript==
 
 "use strict";
